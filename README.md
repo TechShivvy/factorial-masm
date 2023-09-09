@@ -1,5 +1,5 @@
 ﻿# factorial-masm
-
+Factorial from 0 to 20 (decimal) using repeated BCD addition.
 - fact - code wo cmts
 - fact-w-cmts - code w cmts
 - I have also attached the O/P imgs.
